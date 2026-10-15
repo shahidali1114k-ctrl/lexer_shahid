@@ -1,0 +1,7 @@
+let marks;
+marks = 85 + 5;
+show(marks);
+show("Student Result");
+if (marks <= 100)
+show(marks * 2);
+end
